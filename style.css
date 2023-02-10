@@ -1,0 +1,74 @@
+* {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.banner {
+    display: flex;
+    text-align: center;
+     align-items: center;
+}
+
+.image {
+ width: 30%;   
+}
+
+.text {
+    width: 70%;
+    margin-left: 200px;
+    margin-right: 20px;
+
+
+
+}
+.button-contract{
+    background-color: orangered;
+    color: aliceblue;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+
+
+}
+.main{
+    display: flex;
+    text-align: center;
+     align-items: center;
+
+
+}
+.skill-container{
+    display: flex;
+    gap: 24px;
+    text-align: center;
+    justify-content: center;
+
+
+}
+.plans{
+    text-align: center;
+}
+.footer{
+    background-color: black;
+color: aliceblue;
+display: flex;
+padding-top: 10px;
+padding-left: 20px;
+justify-content: space-evenly;
+
+    
+}
+.gradient{
+    
+    justify-content: center;
+    
+}
+.always{
+    text-align: center;
+    padding-top: 50px;
+
+}
+.call{
+    justify-content: center;
+}
+
